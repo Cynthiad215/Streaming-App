@@ -1,26 +1,3 @@
 {
-  "streams": [
-    {
-      "title": "First One",
-      "description": "the first Stream",
-      "id": 1
-    },
-    {
-      "title": "Stream 2 Edit",
-      "description": "Hellohello changes with Patch",
-      "id": 2
-    },
-    {
-      "title": "Title",
-      "description": "Description",
-      "userId": "116339118926820252656",
-      "id": 3
-    },
-    {
-      "title": "It Works!",
-      "description": "Streaming Live Locally",
-      "userId": "116339118926820252656",
-      "id": 4
-    }
-  ]
+  "streams": []
 }
